@@ -1,5 +1,41 @@
 ## Hi there 👋
 
+We are an **ISO-certified translation and localization company** specializing in high-quality language services 🌟. Our team is dedicated to providing **creative translations** that read like original content, helping businesses communicate effectively with a global audience 🌐.
+
+## About Us 🏢
+
+At **Planet Languages**, we offer a comprehensive range of services including:
+- **Marketing translations** 📈
+- **Technical translations** 🛠️
+- **eLearning localization** 📚
+- **Software localization** 💻
+- **Audio-visual translations** 🎬
+
+With over **80 languages** supported, we provide reliable, scalable, and culturally relevant solutions to meet the needs of businesses worldwide🌏.
+
+We combine **advanced technology** ⚙️ and a **dedicated team** of in-house linguists to deliver translation services that exceed expectations. We pride ourselves on our commitment to **quality** and **exceptional customer service** 🏅.
+
+## Our Services 🎯
+
+- **Translation & Transcreation** 📝
+- **Software Localization** 🖥️
+- **Technical Translations** 📊
+- **eLearning Localization** 🎓
+- **Audio-Visual Translations** 🎥
+- **Machine Translation Post-Editing** 🤖
+- **Custom Quality Assurance Tools** ✅
+
+## Technology 🖥️
+
+We use state-of-the-art **translation technologies** to create **custom workflows** and integrate with **translation tools** that suit every localization need. This ensures we deliver fast, high-quality services without compromising on precision or creativity 🔍.
+
+
+## Get in Touch 📬
+
+If you're interested in collaborating, have any questions, or need translation services, feel free to reach out to us!
+
+[Visit Planet Languages Website](https://www.planetlanguages.com/)
+
 <!--
 
 **Here are some ideas to get you started:**
